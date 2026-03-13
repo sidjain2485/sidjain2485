@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sid Jain 👋
 
-<!--
-**sidjain2485/sidjain2485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Data Engineer | PySpark | Data Science
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- PySpark
+- SQL
+- Machine Learning
+- Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- PySpark Tutorial
+- Data Science Projects
+- ETL Pipelines
+
+## Contact
+LinkedIn | Email
