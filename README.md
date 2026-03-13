@@ -43,6 +43,9 @@ Oracle • PostgreSQL • MySQL • Amazon Redshift • Snowflake • Sybase
 
 AWS (S3, EC2, CloudWatch, MWAA, AWS Glue) • Databricks • Snowflake
 
+### ⚡ Big Data Processing
+Databricks (Spark) • Apache Spark (DataFrames, RDDs, Spark SQL) • Large-scale ETL / ELT pipelines • Data Lake Design & Management • Workflow Orchestration with Airflow / MWAA • Performance tuning for distributed data
+
 ### 🔄 Data Integration
 
 Informatica PowerCenter • Talend Open Studio
